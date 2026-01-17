@@ -8,7 +8,7 @@ POST http://localhost:8080/students
 Content-Type: application/json
 
 {
-  "name": "Abhideep Gupta",
+  "name": "anurag Gupta",
   "email": "abhideep.gupta.g@gmail.com",
   "course": "B.tech cse"
 }
